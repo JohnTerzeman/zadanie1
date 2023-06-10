@@ -16,14 +16,14 @@ public class  Main {
         while(z<=5)
         {
             y=y * x;
-            System.out.println("результат: " + y);
+            System.out.println("результат равен: " + y);
             z++;
         }
         System.out.println(" ");
 
         int num = 5;
         do{
-            System.out.println("результат : " + num);
+            System.out.println("результат равен: " + num);
             num++;
         }
         while (num < 10);
